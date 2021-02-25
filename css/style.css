@@ -335,7 +335,7 @@ p{
 	background-color:#ebeff2; 
 }
 .color{
-	color:rgb(114, 14, 230);
+	color:rgb(255, 255, 255);
 }
 .whitecolor{
 	color:#fff;
@@ -1570,7 +1570,7 @@ body.pushmenu-push-toleft  nav.navbar.bootsnav.sticked, body.pushmenu-push-tolef
 
 /* ---------- OWL Slider ---------- */
 .slider_wrapper{
-	width: 73%;
+	width: 100%;
 	margin: 0 auto !important;
 	margin-left:-15px;
 	margin-right:-15px;
@@ -1579,6 +1579,7 @@ body.pushmenu-push-toleft  nav.navbar.bootsnav.sticked, body.pushmenu-push-tolef
 #news_slider .item{ 
 	padding:0 5px;
 	margin: 20px;
+	margin-right:20px !important;
 }
 .owl-theme .owl-controls .owl-buttons div{
   background:#fff;
