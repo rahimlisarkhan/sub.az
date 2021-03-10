@@ -2789,6 +2789,7 @@ footer .footer_panel .footer_logo {
   display: inline-block;
 }
 .footer_logo > img {
+	filter:  brightness(0) invert(1);
   width: 100px;
 }
 footer .footer_panel p.address, .services p.address{
