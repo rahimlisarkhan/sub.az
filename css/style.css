@@ -1865,6 +1865,7 @@ body.pushmenu-push-toleft .navbar-fixed {
 /** News white box **/
 .news_box {
   box-shadow: 0 0px 5px rgba(0, 0, 0, 0.5);
+  margin-top: 5px !important;
   padding: 15px !important;
 }
 .content_wrap .news_box {
@@ -1877,7 +1878,7 @@ body.pushmenu-push-toleft .navbar-fixed {
   z-index: 1;
 }
 .content_wrap .news_box h4 {
-  font-weight: bold;
+  font-weight: 500;
 }
 .content_wrap .news_box .commment li {
   margin-bottom: 10px;

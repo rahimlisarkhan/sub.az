@@ -205,7 +205,7 @@ jQuery(function ($) {
   // ************Owl Carousel
   $("#news_slider").owlCarousel({
     autoPlay: false,
-    items: 4,
+    items: 2,
     pagination: false,
     stopOnHover: true,
     navigationText: [
