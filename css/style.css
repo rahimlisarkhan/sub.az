@@ -1874,8 +1874,11 @@ body.pushmenu-push-toleft .navbar-fixed {
   padding: 20px 15px;
   padding-bottom: 0;
   position: relative;
-  width: 92%;
+  width: 243px;
+  height: 243px;
   z-index: 1;
+  display: flex;
+  align-items: flex-end;
 }
 .content_wrap .news_box h4 {
   font-weight: 500;
@@ -3354,7 +3357,7 @@ footer .footer_panel p.address > i,
 }
 .contain{
   display: grid;
-  grid-template-columns: repeat(2,1fr);
+  grid-template-columns: repeat(5,1fr);
 }
 
 .item-title{
@@ -3363,8 +3366,22 @@ footer .footer_panel p.address > i,
 }
 
 .item h3{
-  font-size: 19px;
-  color: black;
+  font-size: 20px;
+  font-weight: 400;
+  color: #fff;
+}
+
+.item{
+  cursor: pointer;
+}
+
+#item .image{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
 }
 
 @media screen and (max-width:630px){
