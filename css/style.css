@@ -3352,3 +3352,23 @@ footer .footer_panel p.address > i,
 .d-flex-row {
   background-color: red !important;
 }
+.contain{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+}
+
+.item-title{
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+.item h3{
+  font-size: 19px;
+  color: black;
+}
+
+@media screen and (max-width:630px){
+    .contain{
+        grid-template-columns: repeat(1,1fr);
+    }
+}
