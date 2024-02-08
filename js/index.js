@@ -9,13 +9,13 @@ let data = [
         id: 2,
         title: "AGROTECH WORKSHOP & HACKATHON",
         description: "\"From idea to business\" (i2b) project is a startup program covering 8 regions of the country. The 9-month program consists of 3 stages. Startups participating in the program are given incubation classes and given all the information they need to turn their idea into a business. At the end of the program, participants prepare and present an MVP. SUP.VC LLC spearheads the STEAM Hackathon, an integral part of the International STEAM Azerbaijan Festival hosted in collaboration with the Ministry of Science and Education Republic of Azerbaijan. Situated in the iconic Marine Station, this competition aims to kindle interest in educational gamification. With participants hailing from England, Norway, Slovakia, Bulgaria, Denmark, Czech Republic, Turkey, Germany, Turkmenistan, and Azerbaijan, the festival serves as a platform to promote STEAM-based education. Engaging approximately 60 youths, the event focuses on cultivating 21st-century skills, identifying learners with creative digital technology skills, and exploring international experiences in innovation and digitization. Sup.vc is proud to contribute to the advancement of STEAM education and innovation on a global scale.",
-        image: "/images/agrotech/image1.jpg"
+        image: "../images/agrotech/image1.jpg"
     },
     {
         id: 3,
         title: "INNOSTART",
         description: "SUP.VC LLC is proud to present 'INNOSTART,' a strategic educational program meticulously designed to cultivate the startup ecosystem in regional areas, in collaboration with the esteemed Innovation and Digital Development Agency. As the hosting and organizing entity, Sup.vc is committed to providing a platform for students, youth, and aspiring individuals to develop their innovative ideas into successful startups. The program, operating under the auspices of Sup.vc, aims to unearth and harness the potential of young talents in regional communities. 'INNOSTART' unfolds through two key directions: community events and an incubation program. Notably, over 2,000 participants actively engaged in community events, resulting in the successful development of 12 startups through the incubation program. This initiative underscores Sup.vc's dedication to fostering regional innovation, empowering emerging entrepreneurs, and contributing significantly to the flourishing startup ecosystem.",
-        image: "/images/innostart/img1.jpg"
+        image: "../images/innostart/img1.jpg"
     },
     {
         id: 4,
@@ -101,7 +101,7 @@ let data = [
         image: "/images/i2b/img1.jpeg",
         description: "\"From idea to business\" (i2b) project is a startup program covering 8 regions of the country. The 9-month program consists of 3 stages. Startups participating in the program are given incubation classes and given all the information they need to turn their idea into a business. At the end of the program, participants prepare and present an MVP."
     }
-];
+]
 
 const portfolio_content = document.querySelector("#portfolio_content")
 
