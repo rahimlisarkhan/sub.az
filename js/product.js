@@ -42,8 +42,8 @@ let data = [
     {
         id: 7,
         title: "DIGITAL HEIGHTS",
-        images: ["./images/digital/IMG_3911.jpg","./images/digital/IMG_3912.jpg","./images/digital/IMG_3913.jpg","./images/digital/IMG_3915.PNG","./images/digital/IMG_3916.PNG","./images/digital/IMG_3917.PNG","./images/digital/IMG_3918.PNG","./images/digital/IMG_3919.PNG"],
-        image: "./images/digital/IMG_3910.jpg",
+        images: ["./images/digital/img2.JPG","./images/digital/img3.JPG","./images/digital/img4.JPG","./images/digital/IMG_3915.PNG","./images/digital/IMG_3916.PNG","./images/digital/IMG_3917.PNG","./images/digital/IMG_3918.PNG","./images/digital/IMG_3919.PNG"],
+        image: "./images/digital/img1.JPG",
         description: "SUP.VC LLC presents the 'Digital Heights Event,' a distinguished gathering of industry leaders in product, design, digital engineering, and data. Hosted conferences include Product Hunt, a global platform where product owners worldwide share insights, and DevOps Days, featuring knowledge exchange by PASHA Bank experts and global specialists in DevOps, software, and security. This event underscores our commitment to fostering global collaboration, knowledge-sharing, and networking within the tech community."
     },
     {
