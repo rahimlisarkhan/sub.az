@@ -106,7 +106,7 @@ let data = [
 const portfolio_content = document.querySelector("#portfolio_content")
 
 const handleItemClick = (productId) => {
-    window.location.href = `/product.html?id=${productId}`;
+    window.location.href = `/product.html#id=${productId}`;
 };
 
 const detail = data.map((item) => (
