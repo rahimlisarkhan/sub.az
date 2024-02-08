@@ -112,7 +112,7 @@ const handleItemClick = (productId) => {
 
 const detail = data.map((item) => (
     `
-        <div id="item_${item.id}" class="item newItem" onclick="handleItemClick(${item.id})">
+        <a href="${'/product.html#id='+item.id}" id="item_${item.id}" class="item newItem">
             <div class="content_wrap">
                 <div class="news_box border_radius">
                     <img class="imageNew" src="${item.image}" alt="" />
@@ -121,7 +121,7 @@ const detail = data.map((item) => (
                     </p>
                 </div>
             </div>
-        </div>
+        </a>
     `
 )).join("");
 
