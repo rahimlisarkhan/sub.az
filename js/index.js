@@ -15,12 +15,12 @@ let data = [
         id: 3,
         title: "INNOSTART",
         description: "SUP.VC LLC is proud to present 'INNOSTART,' a strategic educational program meticulously designed to cultivate the startup ecosystem in regional areas, in collaboration with the esteemed Innovation and Digital Development Agency. As the hosting and organizing entity, Sup.vc is committed to providing a platform for students, youth, and aspiring individuals to develop their innovative ideas into successful startups. The program, operating under the auspices of Sup.vc, aims to unearth and harness the potential of young talents in regional communities. 'INNOSTART' unfolds through two key directions: community events and an incubation program. Notably, over 2,000 participants actively engaged in community events, resulting in the successful development of 12 startups through the incubation program. This initiative underscores Sup.vc's dedication to fostering regional innovation, empowering emerging entrepreneurs, and contributing significantly to the flourishing startup ecosystem.",
-        image: "../images/innostart/img1.jpg"
+        image: "./images/innostart/img1.jpg"
     },
     {
         id: 4,
         title: "DATA EVENTS",
-        image: "/images/dataevents/DataTalk.jpg",
+        image: "./images/dataevents/DataTalk.jpg",
         description: "From idea to business (i2b) project is a startup program covering 8 regions of the country. The 9-month program consists of 3 stages. Startups participating in the program are given incubation classes and given all the information they need to turn their idea into a business. At the end of the program, participants prepare and present an MVP. DATA EVENTS Data Talk is a discussion-oriented event that delves into the latest innovations, information, and problem-solving approaches within the realm of data. During this event, speakers will explore topics such as data analytics, visualization, and the practical applications of results. The Data Panel, on the other hand, gathers experts in the field of data to engage in insightful discussions. This event provides a platform for experts to share their perspectives on innovations, problem-solving strategies, and the future outlook of the data field. The Data Workshop is a comprehensive 2-day event, each lasting 4 hours, dedicated to imparting knowledge about the current state and future trends in the data field. Attendees can expect to receive both practical and theoretical insights, equipping them with valuable information to navigate the dynamic landscape of data."
     },
     {
@@ -32,61 +32,61 @@ let data = [
     {
         id: 7,
         title: "DIGITAL HEIGHTS",
-        image: "/images/digital/IMG_3910.jpg",
+        image: "./images/digital/IMG_3910.jpg",
         description: "SUP.VC LLC presents the 'Digital Heights Event,' a distinguished gathering of industry leaders in product, design, digital engineering, and data. Hosted conferences include Product Hunt, a global platform where product owners worldwide share insights, and DevOps Days, featuring knowledge exchange by PASHA Bank experts and global specialists in DevOps, software, and security. This event underscores our commitment to fostering global collaboration, knowledge-sharing, and networking within the tech community."
     },
     {
         id: 9,
         title: "INTERNATIONAL FINTECH EVENING",
-        image: "/images/international/1694243357162-1024x623.jpg",
+        image: "./images/international/1694243357162-1024x623.jpg",
         description: "This Fintech event features a panel on FinTech Innovation and Trends. Over the last decade, FinTech startups have disrupted the business models of the core areas of the legacy financial industry such as lending, financial advice, and payment processing. Panelists from the industry will explore the effects of FinTech innovation on traditional areas of finance, talk about the current FinTech trends and discuss the future of FinTech. The event will be composed of 3 sessions."
     },
     {
         id: 10,
         title: "INNOVATION AZERBAIJAN HOUSE IN SILICON VALLEY, USA",
-        image: "/images/silicon/IMG_3920.jpg",
+        image: "./images/silicon/IMG_3920.jpg",
         description: "1-year program for Azerbaijani startups. Each startup had a chance to live and work in Silicon Valley and develop the startup there. Startups were provided with home, car, office, mentoring, and other necessary staff. 5 startups from Azerbaijan were sent to Silicon Valley to participate in this program."
     },
     {
         id: 14,
         title: "STARTUP WEEKEND",
-        image: "/images/week/IMG_3930.jpg",
+        image: "./images/week/IMG_3930.jpg",
         description: "Startup Weekend is a 54-hour weekend event, during which groups of developers, business managers, startup enthusiasts, marketing experts, graphic artists and more pitch ideas for new startup companies, form teams around those ideas, and work to develop a working prototype, demo, or presentation by Sunday evening. Startup Weekend has grown into an organization with a global presence."
     },
     {
         id: 16,
         title: "DEVOPSDAYS BAKU",
-        image: "/images/devops/devopsdaysbaku.jpg",
+        image: "./images/devops/devopsdaysbaku.jpg",
         description: "Devopsdays is a worldwide series of technical conferences covering topics of software development, IT infrastructure operations, and the intersection between them. Each event is run by volunteers from the local area. Most devopsdays events feature a combination of curated talks (see open Calls for Proposals) and self-organized open space content. Topics often include automation, testing, security, and organizational culture."
     },
     {
         id: 17,
         title: "GENDER EQUALITY HACKATHON",
-        image: "/images/gender/img1.jpeg",
+        image: "./images/gender/img1.jpeg",
         description: "\"Gender equality\" hackathon was held on February 19-21, 2021, for the first time in our country within the program \"EU for Gender Equality: Against Gender Stereotypes and Gender-Based Violence\", funded by the European Union, co-organized by FemTech platform, the Regional Development Public Union, the Ministry of Transport, Communications and High Technologies, and the State Committee for Family, Women, and Children, and the United Nations Women's Agency (UN Women)."
     },
     {
         id: 18,
         title: "CALL OF DATA WORKSHOP",
-        image: "/images/call/1.jpg",
+        image: "./images/call/1.jpg",
         description: "Call of Data Workshop is an event held in the field of data. The event lasts several days. At the Call of Data Workshop, both local and foreign reporters inform participants about innovations in the field of data, presenting innovative solutions for problems and new trends."
     },
     {
         id: 19,
         title: "AGROTECH WORKSHOP & HACKATHON",
-        image: "/images/workshop/img1.jpeg",
+        image: "./images/workshop/img1.jpeg",
         description: "Agrotech Workshop & Hackathon is an event that is organized in the field of agriculture. At the event, farmers were given important information to increase effectiveness in the field of agriculture. Agrotech workshop was a one-day event targeted at informing the audience of the new technological trends in agriculture such as precision agriculture, use of robotics and AI in agriculture and vertical farming in controlled environments. The workshop was delivered by a leading internationally recognized lecturer. The Hackathon lasted for 3 days in the direction of the development of the agric industry, development of prototypes, application of innovative technologies. Students, researchers, designers, entrepreneurs, companies, job seekers participated in the Hackathon. Participants worked as a team and they applied innovative solutions to various problems in the field of agriculture. The team that presented the best solution in the field of agriculture was a winner."
     },
     {
         id: 20,
         title: "IDEATHON ON AGROINNOVATION",
-        image: "/images/aaa/img1.jpeg",
+        image: "./images/aaa/img1.jpeg",
         description: "The project is a multi-day event to provide innovative solutions for problems in the field of agriculture. 20 teams participating in the ideathon presented different projects for the development of agriculture. At the event, participants were provided with mentoring support by local and foreign mentors."
     },
     {
         id: 21,
         title: "INNOVATIVE PROFESSIONAL COURSE FOR YOUNG WOMEN",
-        image: "/images/aa/1.jpeg",
+        image: "./images/aa/1.jpeg",
         description: "The innovative vocational course is a support project initiated by UNDP Azerbaijan and organized by SUP.VC to support women from Fizuli-Horadiz, Agjabadi, and Tartar regions to acquire modern professions. 9 ladies from the regions are trained in design, programming, content management."
     },
     {
@@ -98,7 +98,7 @@ let data = [
     {
         id: 24,
         title: "i2b",
-        image: "/images/i2b/img1.jpeg",
+        image: "./images/i2b/img1.jpeg",
         description: "\"From idea to business\" (i2b) project is a startup program covering 8 regions of the country. The 9-month program consists of 3 stages. Startups participating in the program are given incubation classes and given all the information they need to turn their idea into a business. At the end of the program, participants prepare and present an MVP."
     }
 ]
