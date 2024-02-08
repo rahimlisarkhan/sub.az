@@ -162,7 +162,7 @@ let data = [
 
 
 const __hash = window.location.hash
-const __splitted_hash = __hash.split("=")[1]
+const __splitted_hash = window.location.href.split("=")[1]
 
 let item = data.filter((item) => item.id == __splitted_hash)
 
