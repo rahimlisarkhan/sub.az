@@ -44,13 +44,13 @@ let data = [
     {
         id: 10,
         title: "INNOVATION AZERBAIJAN HOUSE IN SILICON VALLEY, USA",
-        image: "./images/silicon/IMG_3920.jpg",
+        image: "./images/silicon/img1.JPG",
         description: "1-year program for Azerbaijani startups. Each startup had a chance to live and work in Silicon Valley and develop the startup there. Startups were provided with home, car, office, mentoring, and other necessary staff. 5 startups from Azerbaijan were sent to Silicon Valley to participate in this program."
     },
     {
         id: 14,
         title: "STARTUP WEEKEND",
-        image: "./images/week/IMG_3930.jpg",
+        image: "./images/week/img1.JPG",
         description: "Startup Weekend is a 54-hour weekend event, during which groups of developers, business managers, startup enthusiasts, marketing experts, graphic artists and more pitch ideas for new startup companies, form teams around those ideas, and work to develop a working prototype, demo, or presentation by Sunday evening. Startup Weekend has grown into an organization with a global presence."
     },
     {
