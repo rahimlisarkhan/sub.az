@@ -16,7 +16,7 @@ let data = [
         title: "AGROTECH WORKSHOP & HACKATHON",
         images: ["/images/agrotech/image2.jpg","/images/agrotech/image3.jpg","/images/agrotech/image4.jpg","/images/agrotech/image5.jpg","/images/agrotech/image6.jpg"],
         description: "Agrotech Workshop & Hackathon is an event that is organized in the field of agriculture. At the event famers were given important information to increase effectiveness in the field of agriculture. Agrotech workshop was a one-day event targeted at informing the audience of the new technological trends in agriculture such as precision agriculture, use of robotics and AI in agriculture and vertical farming in controlled environments. The workshop was delivered by a leading internationally recognized lecture. Hackathon lasted for 3 days in the direction of the development of the agaric industry, development of prototypes, application of innovative technologies. Students, researchers, designers, entrepreneurs, companies, job seekers participated in the Hackathon. Participants worked as a team and they applied innovative solutions to various problems in the field of agriculture. The team that presented the best solution in the field of agriculture was a winner.",
-        image: "../images/agrotech/image1.jpg"
+        image: "./images/agrotech/image1.jpg"
     },
     {
         id: 3,

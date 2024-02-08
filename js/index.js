@@ -9,7 +9,7 @@ let data = [
         id: 2,
         title: "AGROTECH WORKSHOP & HACKATHON",
         description: "\"From idea to business\" (i2b) project is a startup program covering 8 regions of the country. The 9-month program consists of 3 stages. Startups participating in the program are given incubation classes and given all the information they need to turn their idea into a business. At the end of the program, participants prepare and present an MVP. SUP.VC LLC spearheads the STEAM Hackathon, an integral part of the International STEAM Azerbaijan Festival hosted in collaboration with the Ministry of Science and Education Republic of Azerbaijan. Situated in the iconic Marine Station, this competition aims to kindle interest in educational gamification. With participants hailing from England, Norway, Slovakia, Bulgaria, Denmark, Czech Republic, Turkey, Germany, Turkmenistan, and Azerbaijan, the festival serves as a platform to promote STEAM-based education. Engaging approximately 60 youths, the event focuses on cultivating 21st-century skills, identifying learners with creative digital technology skills, and exploring international experiences in innovation and digitization. Sup.vc is proud to contribute to the advancement of STEAM education and innovation on a global scale.",
-        image: "../images/agrotech/image1.jpg"
+        image: "./images/agrotech/image1.jpg"
     },
     {
         id: 3,
