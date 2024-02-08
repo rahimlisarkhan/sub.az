@@ -105,14 +105,14 @@ let data = [
 
 const portfolio_content = document.querySelector("#portfolio_content")
 
-const handleItemClick = (productId) => {
-    // window.location.href = `/product.html#id=${productId}`;
-    window.open(`/product.html#id=${productId}`);
-};
+// const handleItemClick = (productId) => {
+//     // window.location.href = `/product.html#id=${productId}`;
+//     window.open(`/product.html#id=${productId}`);
+// };
 
 const detail = data.map((item) => (
     `
-        <a href="${'/product.html#id='+item.id}" id="item_${item.id}" class="item newItem">
+        <a href="${'product.html#id='+item.id}" id="item_${item.id}" class="item newItem">
             <div class="content_wrap">
                 <div class="news_box border_radius">
                     <img class="imageNew" src="${item.image}" alt="" />
