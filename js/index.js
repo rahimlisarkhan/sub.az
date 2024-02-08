@@ -32,7 +32,7 @@ let data = [
     {
         id: 7,
         title: "DIGITAL HEIGHTS",
-        image: "./images/digital/IMG_3910.jpg",
+        image: "./images/digital/img1.JPG",
         description: "SUP.VC LLC presents the 'Digital Heights Event,' a distinguished gathering of industry leaders in product, design, digital engineering, and data. Hosted conferences include Product Hunt, a global platform where product owners worldwide share insights, and DevOps Days, featuring knowledge exchange by PASHA Bank experts and global specialists in DevOps, software, and security. This event underscores our commitment to fostering global collaboration, knowledge-sharing, and networking within the tech community."
     },
     {
