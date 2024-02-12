@@ -90,12 +90,6 @@ let data = [
         description: "The innovative vocational course is a support project initiated by UNDP Azerbaijan and organized by SUP.VC to support women from Fizuli-Horadiz, Agjabadi, and Tartar regions to acquire modern professions. 9 ladies from the regions are trained in design, programming, content management."
     },
     {
-        id: 23,
-        title: "RITM",
-        image: "https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
-        description: "RITM-Regional Innovative Tourism Product. In the 3-month regional project, an intensive incubation program was conducted for dozens of tourism startups from different regions of Azerbaijan (South, North, North-West, West). Startups that successfully completed the incubation program with the participation of 30 teams from different regions advanced to the finals, presented their startups to investors and competed for the finals and won grants."
-    },
-    {
         id: 24,
         title: "i2b",
         image: "./images/i2b/img1.jpeg",
