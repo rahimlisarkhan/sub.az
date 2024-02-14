@@ -1930,6 +1930,19 @@ body.pushmenu-push-toleft .navbar-fixed {
   display: flex;
   align-items: flex-end;
 }
+.content_wrap .image img{
+  width: 157px;
+  height: 156px;
+}
+.content_wrap .image{
+  width: 157px;
+}
+.swiper-button-prev, .swiper-rtl .swiper-button-next{
+  left: -24px !important;
+}
+.swiper-button-next, .swiper-rtl .swiper-button-prev{
+  right: -24px !important;
+}
 .content_wrap .news_box h4 {
   font-weight: 500;
 }

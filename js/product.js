@@ -6,9 +6,9 @@ const __product_images = document.querySelector("#productImages")
 let data = [
     {
         id: 1,
-        title: "CULTECH HACKATHONS",
+        title: "PO MARATHON",
         images: ["./images/agrotech/image2.jpg","./images/agrotech/image3.jpg","./images/agrotech/image4.jpg","./images/agrotech/image5.jpg","./images/agrotech/image6.jpg"],
-        description: "SUP.VC LLC Hosts and Organizes 'Cultech' - A Pioneering Hackathon Series within 'Creative Week' Supported by the Ministry of Culture. CulTech hackathons, curated and executed by Sup.vc, bring together dedicated teams for a 48-hour intensive program, aimed at developing innovative solutions within the creative sector. With mentor support, teams craft prototypes for their creative products, concluding with a concise three-minute presentation to the jury. This event exemplifies Sup.vc's commitment to fostering innovation and collaboration at the intersection of technology and culture.",
+        description: "SUP.VC LLC takes pride in the seamless execution of the Product Owner Marathon,  a distinguished 4-week initiative designed to immerse participants in the intricacies of product development and cultivate their prowess as effective product owners. This strategic event featured cross-disciplinary ideation, allowing participants to present innovative concepts in sectors such as fintech, edutech, and agrotech. The competitive edge of the marathon was exemplified through a structured product competition with two stages—an initial idea presentation and subsequent hands-on mentoring sessions. Under the expert guidance provided during the marathon, participants not only honed their skills but also emerged as adept product owners with a comprehensive understanding of industry-specific nuances. The success of the Product Owner Marathon underscores Sup.vc LLC's commitment to fostering learning, innovation, and leadership in the dynamic landscape of product development.",
         image: "./images/agrotech/image1.jpg"
     },
     {
@@ -35,8 +35,8 @@ let data = [
     {
         id: 5,
         title: "WOMEN OF AZERBAIJAN",
-        images: ["https://images.unsplash.com/photo-1621155346337-1d19476ba7d6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGltYWdlfGVufDB8fDB8fHww","https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_640.jpg"],
-        image: "https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+        images: ["./images/women/item2.jpeg","./images/women/item3.jpeg","./images/women/item4.jpeg","./images/women/item5.jpeg","./images/women/item6.jpeg","./images/women/item7.jpeg"],
+        image: "./images/women/item.jpeg",
         description: "SUP.VC LLC served as the vendor for Kapital Bank's initiative, \"Women of Azerbaijan.\" This 3-month project, launched on International Women's Day, aimed to empower women entrepreneurs in Azerbaijan with essential skills for global e-commerce success. Our responsibilities included streamlining registrations, managing training sessions, and ensuring smooth interaction with platforms like 'Amazon' and 'eBay.' This collaboration highlights sup.vc's expertise in project management and technical support. Join us in recognizing our successful partnership in advancing women in e-commerce."
     },
     {

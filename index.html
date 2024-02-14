@@ -17,6 +17,11 @@
 <link rel="stylesheet" type="text/css" href="css/style.css">
 <link rel="stylesheet" type="text/css" href="css/loader.css">
 <link rel="icon" type="image/png" href="images/favicon.png">
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -188,13 +193,14 @@
             <li><a href="#contact"> Contact Us</a></li>
           </ul>
           <div class="clearfix"></div>
-          <ul class="social_icon black top25 bottom20">
-          <li><a href="https://www.facebook.com/supaccelerator " class="facebook"><i class="fa fa-facebook"></i></a></li>
+          <ul class="social_icon black top25 bottom20" style="justify-content: center;display: flex;margin-left: -30px;">
+          <li><a href="https://www.facebook.com/supaccelerator " class="facebook"><i class="fa-brands fa-facebook"></i></a></li>
+          <li><a href="https://Wa.me/+994512404155" class="facebook"><i class="fa-brands fa-whatsapp"></i></a></li>
           <li><a href="https://twitter.com/sup_vc " class="twitter"><i class="icon-twitter4"></i></a></li>
           <li><a href="https://www.instagram.com/sup.vc/" class="instagram"><i class="icon-instagram"></i></a></li>
           <li><a href="https://www.linkedin.com/company/10319437/admin/" class="twitter"><i class="icon-linkedin4"></i></a></li>
           <li><a href="https://www.youtube.com/channel/UClY0bLWHFygqLRfCLeAChTQ" class="twitter"><i class="icon-youtube"></i></a></li
-        </ul>
+          </ul>
         </nav>
       </div>   
   </nav>
@@ -425,94 +431,96 @@
 </section>
 
 
-<section id="partners" class="padding">
+<section id="partners"  class="padding">
   <div class="container">
-    <div class="row">
+    <div class="row" >
       <div class="col-md-12 wow fadeInDown flex-column">
-       <h2 class="heading heading_space"><span>OUR PARTNERS</span> </h2>
-       <h2 class="heading heading_space"><span>Organizations we have worked with</span> </h2>
+        <h2 class="heading heading_space"><span>OUR PARTNERS</span> </h2>
+        <h2 class="heading heading_space"><span>Organizations we have worked with</span> </h2>
       </div>
     </div>
-    <div class="row">
+    <div class="row" style="position: relative;">
       <div class="col-md-12">
-        <div class="slider_wrapper">
-          <div id="our_slider" class="owl-carousel">
-            <div class="item">
+        <div class="swiper">
+          <div class="swiper-wrapper" style="display: flex;width: 100%;" id="partnerContainer">
+            <div class="item swiper-slide">
               <div class="content_wrap">
                 <div class="image">
                   <img src="images/partner/partner1.jpg" alt="sub.az" class="img-responsive border_radius">
                 </div>
-            
               </div>
             </div>
-            <div class="item">
+            <div class="item swiper-slide">
               <div class="content_wrap">
                 <div class="image">
                   <img src="images/partner/partner2.jpg" alt="sub.az" class="img-responsive border_radius">
                 </div>
-          
               </div>
             </div>
-            <div class="item">
+            <div class="item swiper-slide">
               <div class="content_wrap">
                 <div class="image">
                   <img src="images/partner/partner3.jpg" alt="sub.az" class="img-responsive border_radius">
                 </div>
-           
               </div>
             </div>
-            <div class="item">
+            <div class="item swiper-slide">
               <div class="content_wrap">
                 <div class="image">
                   <img src="images/partner/partner4.jpg" alt="sub.az" class="img-responsive border_radius">
                 </div>
-            
               </div>
             </div>
-            <div class="item">
+            <div class="item swiper-slide">
               <div class="content_wrap">
                 <div class="image">
                   <img src="images/partner/partner5.jpg" alt="sub.az" class="img-responsive border_radius">
                 </div>
-             
               </div>
             </div>
-            <div class="item">
+            <div class="item swiper-slide">
               <div class="content_wrap">
                 <div class="image">
                   <img src="images/partner/partner6.jpg" alt="sub.az" class="img-responsive border_radius">
                 </div>
-          
               </div>
             </div>
-            <div class="item">
+            <div class="item swiper-slide">
               <div class="content_wrap">
                 <div class="image">
                   <img src="images/partner/partner7.jpg" alt="sub.az" class="img-responsive border_radius">
                 </div>
-           
               </div>
             </div>
-            <div class="item">
+            <div class="item swiper-slide">
               <div class="content_wrap">
                 <div class="image">
                   <img src="images/partner/partner8.jpg" alt="sub.az" class="img-responsive border_radius">
                 </div>
-          
               </div>
             </div>
-            <div class="item">
+            <div class="item swiper-slide">
               <div class="content_wrap">
-                <div class="image" style="height: 156px; display: flex; justify-content: center;align-items: center;">
-                  <img style="width: 156px;height: 136px;" src="data:image/png;base64,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" alt="sub.az" class="img-responsive border_radius">
+                <div class="image">
+                  <img src="https://www.kapitalbank.az/images/news/D/kapital-bankda-yeni-teyinatlar1683286101.jpg" style="object-fit: contain;" alt="sub.az" class="img-responsive border_radius">
                 </div>
               </div>
             </div>
           </div>
+          <div class="swiper-pagination"></div>
+    
+      <!-- If we need navigation buttons -->
+      
+    
+      <!-- If we need scrollbar -->
+      <div class="swiper-scrollbar"></div>
         </div>
       </div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-button-next"></div>
     </div>
   </div>
+  
 </section>
 
 
@@ -752,6 +760,7 @@
           SUP.VC is a corporate innovation company that organizes events and implements the projects.</p>
         <ul class="social_icon top25">
           <li><a href="https://www.facebook.com/supaccelerator " class="facebook"><i class="fa-brands fa-facebook"></i></a></li>
+          <li><a href="https://Wa.me/+994512404155" class="facebook"><i class="fa-brands fa-whatsapp"></i></a></li>
           <li><a href="https://twitter.com/sup_vc " class="twitter"><i class="icon-twitter4"></i></a></li>
           <li><a href="https://www.linkedin.com/company/10319437/admin/" class="dribble"><i class="icon-linkedin4"></i></a></li>
           <li><a href="https://www.instagram.com/sup.vc/" class="instagram"><i class="icon-instagram"></i></a></li>
@@ -783,6 +792,7 @@
 
 <script src="js/jquery-2.2.3.js"></script>
 <script src="js/bootstrap.min.js"></script>
+
 <script src="js/bootsnav.js"></script>
 <script src="js/jquery.appear.js"></script>
 <script src="js/jquery-countTo.js"></script>
@@ -800,6 +810,10 @@
 <script src="js/wow.min.js"></script>
 <script src="js/functions.js"></script>
 <script src="./js/index.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="./js/custom.js"></script>
 
 </body>
 </html>

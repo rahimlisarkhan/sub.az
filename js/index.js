@@ -26,7 +26,7 @@ let data = [
     {
         id: 5,
         title: "WOMEN OF AZERBAIJAN",
-        image: "https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630",
+        image: "./images/women/item.jpeg",
         description: "SUP.VC LLC served as the vendor for Kapital Bank's initiative, \"Women of Azerbaijan.\" This 3-month project, launched on International Women's Day, aimed to empower women entrepreneurs in Azerbaijan with essential skills for global e-commerce success. Our responsibilities included streamlining registrations, managing training sessions, and ensuring smooth interaction with platforms like 'Amazon' and 'eBay.' This collaboration highlights sup.vc's expertise in project management and technical support. Join us in recognizing our successful partnership in advancing women in e-commerce."
     },
     {
