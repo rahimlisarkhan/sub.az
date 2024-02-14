@@ -7,9 +7,9 @@ let data = [
     {
         id: 1,
         title: "PO MARATHON",
-        images: ["./images/agrotech/image2.jpg","./images/agrotech/image3.jpg","./images/agrotech/image4.jpg","./images/agrotech/image5.jpg","./images/agrotech/image6.jpg"],
+        images: ["./images/po/item2.jpeg","./images/po/item3.jpeg","./images/po/item4.jpeg","./images/po/item5.jpeg","./images/po/item7.jpeg","./images/po/item8.jpeg","./images/po/item9.jpeg","./images/po/item10.jpeg"],
         description: "SUP.VC LLC takes pride in the seamless execution of the Product Owner Marathon,  a distinguished 4-week initiative designed to immerse participants in the intricacies of product development and cultivate their prowess as effective product owners. This strategic event featured cross-disciplinary ideation, allowing participants to present innovative concepts in sectors such as fintech, edutech, and agrotech. The competitive edge of the marathon was exemplified through a structured product competition with two stages—an initial idea presentation and subsequent hands-on mentoring sessions. Under the expert guidance provided during the marathon, participants not only honed their skills but also emerged as adept product owners with a comprehensive understanding of industry-specific nuances. The success of the Product Owner Marathon underscores Sup.vc LLC's commitment to fostering learning, innovation, and leadership in the dynamic landscape of product development.",
-        image: "./images/agrotech/image1.jpg"
+        image: "./images/po/item.jpeg"
     },
     {
         id: 2,

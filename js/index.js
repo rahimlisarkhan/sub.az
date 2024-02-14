@@ -3,7 +3,7 @@ let data = [
         id: 1,
         title: "PO MARATHON",
         description: "SUP.VC LLC Hosts and Organizes 'Cultech' - A Pioneering Hackathon Series within 'Creative Week' Supported by the Ministry of Culture. CulTech hackathons, curated and executed by Sup.vc, bring together dedicated teams for a 48-hour intensive program, aimed at developing innovative solutions within the creative sector. With mentor support, teams craft prototypes for their creative products, concluding with a concise three-minute presentation to the jury. This event exemplifies Sup.vc's commitment to fostering innovation and collaboration at the intersection of technology and culture.",
-        image: "https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630"
+        image: "./images/po/item.jpeg"
     },
     {
         id: 2,
